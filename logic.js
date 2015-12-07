@@ -1,2 +1,1 @@
-some js logic
-zmiana na desk
+some js logic 2
